@@ -16,6 +16,6 @@ Para utilizar este aplicativo, basta clonar o repositório e abrir o projeto em 
 
 ## Autor
 
-Este aplicativo foi desenvolvido por [GlaucoB0].
+Este aplicativo foi desenvolvido por [GlaucoB0](https://github.com/GlaucoB0).
 
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato.
