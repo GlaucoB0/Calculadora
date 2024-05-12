@@ -78,7 +78,7 @@
                 android:layout_weight="1"
                 android:background="@drawable/button_laranja"
                 android:fontFamily="@font/inter"
-                android:text="÷"
+                android:text="/"
                 android:textColor="@color/white"
                 android:textSize="20sp"
                 android:textStyle="bold" />
@@ -135,7 +135,7 @@
                 android:layout_weight="1"
                 android:background="@drawable/button_laranja"
                 android:fontFamily="@font/inter"
-                android:text="X"
+                android:text="*"
                 android:textColor="@color/white"
                 android:textSize="20sp"
                 android:textStyle="bold" />
